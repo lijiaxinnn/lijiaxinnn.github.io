@@ -2,7 +2,7 @@
 title: JaxLi Blog
 SEOTitle: 嘉适的博客 | JaxLi Blog
 header-img: img/post-bg-desk.jpg
-email: justlee1024@gmail.com
+email: lijia.xin@foxmail.com
 description: "There are things in my life that are real"
 keyword: "Jax, jaxli Blog, 嘉适的博客, lijiaxin, 对抗无聊, Apple"
 url: "https://lijiaxinnn.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I dont know"
+sidebar-about-description: "a nice guy"
 sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
