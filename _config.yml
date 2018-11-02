@@ -7,7 +7,7 @@ description: "There are things in my life that are real"
 keyword: "Jax, jaxli Blog, 嘉适的博客, lijiaxin, 对抗无聊, Apple"
 url: "https://lijiaxinnn.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/lijiaxinnn/lijiaxinnn.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
