@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "a nice guy"
-sidebar-avatar: img/ljxprofilepic.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ljxprofilepic.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -22,6 +22,7 @@ RSS: false
 #zhihu_username:     qiubaiying
 github_username:    lijiaxinnn
 facebook_username:  LiJiaXin
+douban_username: jax李
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
