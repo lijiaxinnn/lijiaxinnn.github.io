@@ -1,7 +1,7 @@
 # Site settings
 title: JaxLi Blog
 SEOTitle: 嘉适的博客 | JaxLi Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-sample-image.jpg
 email: lijia.xin@foxmail.com
 description: "There are things in my life that are real"
 keyword: "Jax, jaxli Blog, 嘉适的博客, lijiaxin, 对抗无聊, Apple"
@@ -22,7 +22,6 @@ RSS: false
 #zhihu_username:     qiubaiying
 github_username:    lijiaxinnn
 facebook_username:  LiJiaXin
-douban_username: jax李
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
