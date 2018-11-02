@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      First post
@@ -9,9 +8,9 @@ header-img: img/post-bg-universe.jpg
 catalog: 	 true
 tags:
     - 生活
- 
+
 ---
-```
+
 
 
 
